@@ -1,0 +1,27 @@
+{
+  "name": "react-slick",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "slick-carousel": "^1.8.1",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.10",
+    "react-slick": "^0.29.0"
+  }
+}
